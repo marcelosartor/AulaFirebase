@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AulaFirebase</string>
+    <string name="gcm_defaultSenderId" translatable="false">205267934444</string>
+    <string name="google_api_key" translatable="false">AIzaSyBF4vHMOaA0K8K2nkFb6qlYgt5KbQu1hSI</string>
+    <string name="google_app_id" translatable="false">1:205267934444:android:9f678994b0d4baacb859c9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBF4vHMOaA0K8K2nkFb6qlYgt5KbQu1hSI</string>
+    <string name="google_storage_bucket" translatable="false">aulafirebase-23e9a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">aulafirebase-23e9a</string>
+    <style name="Base.Theme.AulaFirebase" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AulaFirebase" parent="Base.Theme.AulaFirebase"/>
+</resources>

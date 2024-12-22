@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.com.msartor.aulafirebase.app-mergeDebugResources-41:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/msartor/.gradle/caches/transforms-4/543d2c6de4aa730d6ea8dc4cd6a50304/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
