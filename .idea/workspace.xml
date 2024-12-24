@@ -197,7 +197,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/app/src/main/java/br/com/msartor/aulafirebase/MainActivity.kt</url>
-          <line>20</line>
+          <line>19</line>
           <properties class="br.com.msartor.aulafirebase.MainActivity" method="onCreate">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

@@ -3,7 +3,6 @@ package br.com.msartor.aulafirebase
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
@@ -39,19 +38,45 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun atualizarRemoverDados() {
+        /* Insert com id automatico */
         val dados = mapOf(
-            "nome" to "Vanessa",
-            "idade" to "51",
-            "cpf" to "123"
+            "nome" to "Ruff",
+            "idade" to "14",
         )
 
         val refVanessa = bancoDeDados
             .collection("usuarios")
-            .document("2")
+            .add( dados )
+            .addOnSuccessListener {
+                exibirMensagem("Usuario salvo com sucesso!")
+            }
+            .addOnFailureListener { exception ->
+                exibirMensagem("Erro ao salvar dados!")
+            }
+
+
+
+
+        /* Usuario logado
+        val idUsuario = autenticacao.currentUser?.uid
+        val dados = mapOf(
+            "nome" to "Ruff",
+            "idade" to "14",
+        )
+        if(idUsuario != null) {
+            val refRuff = bancoDeDados
+                .collection("usuarios")
+                .document(idUsuario)
+        }
+        */
+
+        /* update
+        val refUsuario = bancoDeDados
+            .collection("usuarios")
+            .document("1")
 
         //refVanessa.set(dados)
-        /*
-        refVanessa.update("nome","Vanessa A.S.S.")
+        refUsuario.update("nome","Vanessa A.S.S.")
             .addOnSuccessListener {
                 exibirMensagem("Usuario atualizado com sucesso!")
             }
@@ -60,13 +85,19 @@ class MainActivity : AppCompatActivity() {
             }
         */
 
-        refVanessa.delete()
+        /* delete
+        val refUsuario = bancoDeDados
+            .collection("usuarios")
+            .document("1")
+
+        refUsuario.delete()
             .addOnSuccessListener {
                 exibirMensagem("Usuario removido com sucesso!")
             }
             .addOnFailureListener { exception ->
                 exibirMensagem("Erro ao remover dados!")
             }
+        */
 
     }
 
