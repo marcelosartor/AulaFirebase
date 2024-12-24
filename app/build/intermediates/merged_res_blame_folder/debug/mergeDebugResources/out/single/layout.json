@@ -1,11 +1,7 @@
 [
     {
-        "merged": "/home/msartor/.gradle/daemon/8.7/br.com.msartor.aulafirebase.app-mergeDebugResources-42:/layout/activity_main.xml",
-        "source": "/home/msartor/.gradle/daemon/8.7/br.com.msartor.aulafirebase.app-main-45:/layout/activity_main.xml"
-    },
-    {
-        "merged": "/home/msartor/.gradle/daemon/8.7/br.com.msartor.aulafirebase.app-mergeDebugResources-42:/layout/activity_principal.xml",
-        "source": "/home/msartor/.gradle/daemon/8.7/br.com.msartor.aulafirebase.app-main-45:/layout/activity_principal.xml"
+        "merged": "br.com.msartor.aulafirebase.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "br.com.msartor.aulafirebase.app-main-45:/layout/activity_main.xml"
     },
     {
         "merged": "br.com.msartor.aulafirebase.app-mergeDebugResources-42:/layout/activity_principal.xml",

@@ -45,49 +45,49 @@
 24-->[androidx.core:core:1.13.1] /home/msartor/.gradle/caches/transforms-4/f4f2fe86294be803e201cd2240524430/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 25
 26    <application
-26-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
+26-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
 27        android:allowBackup="true"
-27-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:6:9-35
+27-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:6:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.13.1] /home/msartor/.gradle/caches/transforms-4/f4f2fe86294be803e201cd2240524430/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 29        android:dataExtractionRules="@xml/data_extraction_rules"
-29-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:7:9-65
+29-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:7:9-65
 30        android:debuggable="true"
 31        android:extractNativeLibs="false"
 32        android:fullBackupContent="@xml/backup_rules"
-32-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:8:9-54
+32-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:8:9-54
 33        android:icon="@mipmap/ic_launcher"
-33-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:9:9-43
+33-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:9:9-43
 34        android:label="@string/app_name"
-34-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:10:9-41
+34-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:10:9-41
 35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:11:9-54
+35-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:11:9-54
 36        android:supportsRtl="true"
-36-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:12:9-35
+36-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:12:9-35
 37        android:testOnly="true"
 38        android:theme="@style/Theme.AulaFirebase" >
-38-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:13:9-50
+38-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:13:9-50
 39        <activity
-39-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:15:9-17:40
+39-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:15:9-17:40
 40            android:name="br.com.msartor.aulafirebase.PrincipalActivity"
-40-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:16:13-46
+40-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:16:13-46
 41            android:exported="false" />
-41-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:17:13-37
+41-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:17:13-37
 42        <activity
-42-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:18:9-26:20
+42-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:18:9-26:20
 43            android:name="br.com.msartor.aulafirebase.MainActivity"
-43-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:19:13-41
+43-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:19:13-41
 44            android:exported="true" >
-44-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:20:13-36
+44-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:20:13-36
 45            <intent-filter>
-45-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:21:13-25:29
+45-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:21:13-25:29
 46                <action android:name="android.intent.action.MAIN" />
-46-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:22:17-69
-46-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:22:25-66
+46-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:22:17-69
+46-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:22:25-66
 47
 48                <category android:name="android.intent.category.LAUNCHER" />
-48-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:24:17-77
-48-->/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:24:27-74
+48-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:24:17-77
+48-->/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:24:27-74
 49            </intent-filter>
 50        </activity>
 51        <activity

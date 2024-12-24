@@ -9,29 +9,14 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import br.com.msartor.aulafirebase.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 
 class MainActivity : AppCompatActivity() {
 
     private val binding by lazy {  ActivityMainBinding.inflate(layoutInflater)   }
     private val autenticacao by lazy {  FirebaseAuth.getInstance() }
+    private val bancoDeDados by lazy {  FirebaseFirestore.getInstance() }
 
-    override fun onStart() {
-        super.onStart()
-        verificarUsuarioLogado()
-
-    }
-
-    private fun verificarUsuarioLogado() {
-        val usuario = autenticacao.currentUser
-        if(usuario != null){
-            exibirMensagem("Usuário logado: ${usuario.uid}-${usuario.email}")
-            startActivity(
-                Intent(this, PrincipalActivity::class.java)
-            )
-        }else{
-            exibirMensagem("Não tem usuário logado")
-        }
-    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -47,9 +32,48 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnExecutar.setOnClickListener {
             //cadastroUsuario()
-            logarUsuario()
+            //logarUsuario()
+            salvarDados()
         }
     }
+
+    private fun salvarDados() {
+        val dados = mapOf(
+            "nome" to "Vanessa",
+            "idade" to "51"
+        )
+
+        bancoDeDados
+            .collection("usuarios")
+            .document("2")
+            .set(dados)
+            .addOnSuccessListener {
+                exibirMensagem("Usuario Salvo com sucesso!")
+            }
+            .addOnFailureListener { exception ->
+                exibirMensagem("Erro ao salvar dados!")
+            }
+
+    }
+
+
+    override fun onStart() {
+        super.onStart()
+        //verificarUsuarioLogado()
+    }
+
+    private fun verificarUsuarioLogado() {
+        val usuario = autenticacao.currentUser
+        if(usuario != null){
+            exibirMensagem("Usuário logado: ${usuario.uid}-${usuario.email}")
+            startActivity(
+                Intent(this, PrincipalActivity::class.java)
+            )
+        }else{
+            exibirMensagem("Não tem usuário logado")
+        }
+    }
+
 
     private fun logarUsuario() {
         val email = "marcelo.msartor@gmail.com"

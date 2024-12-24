@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/msartor/.gradle/caches/transforms-4/543d2c6de4aa730d6ea8dc4cd6a50304/transformed/appcompat-1.7.0/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,39",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "175,245,329,413,509,611,713,3695",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "240,324,408,504,606,708,802,3779"
-                    }
-                },
-                {
-                    "source": "/home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/res/values-night/themes.xml",
+                    "source": "/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,6 +37,23 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "170"
+                    }
+                },
+                {
+                    "source": "/home/msartor/.gradle/caches/transforms-4/543d2c6de4aa730d6ea8dc4cd6a50304/transformed/appcompat-1.7.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,39",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,245,329,413,509,611,713,3695",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "240,324,408,504,606,708,802,3779"
                     }
                 }
             ]

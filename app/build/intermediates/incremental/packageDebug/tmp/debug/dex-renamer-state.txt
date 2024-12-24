@@ -1,15 +1,15 @@
-#Sun Dec 22 11:24:06 BRT 2024
-base.0=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.4=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.5=/home/msartor/AndroidStudioProjects/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Tue Dec 24 11:37:09 BRT 2024
+base.0=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.4=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.5=/home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex
-path.3=classes2.dex
-path.4=12/classes.dex
+path.3=12/classes.dex
+path.4=classes2.dex
 path.5=classes3.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex

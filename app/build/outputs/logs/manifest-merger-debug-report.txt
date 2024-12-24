@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.databinding:viewbinding:8.6.0] /home/msartor/.gradle/caches/transforms-4/6da13ce8d41a0c7aa2c1358b94252d5f/transformed/viewbinding-8.6.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /home/msartor/.gradle/caches/transforms-4/869b62fb52e2e1f2a1e577a5a80c8541/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/msartor/.gradle/caches/transforms-4/0e4a5dbfb2f5b90c13ef307350993cd3/transformed/firebase-auth-23.1.0/AndroidManifest.xml:17:1-75:12
@@ -87,18 +87,18 @@ MERGED from [io.grpc:grpc-android:1.62.2] /home/msartor/.gradle/caches/transform
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/msartor/.gradle/caches/transforms-4/299b1d9a58ecf9574ef4f111753e05fc/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.play:core-common:2.0.3] /home/msartor/.gradle/caches/transforms-4/f7446d72cedf7dfb65ffa9865ead4449/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
 	package
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:5:5-27:19
 MERGED from [com.google.android.material:material:1.12.0] /home/msartor/.gradle/caches/transforms-4/869b62fb52e2e1f2a1e577a5a80c8541/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/msartor/.gradle/caches/transforms-4/869b62fb52e2e1f2a1e577a5a80c8541/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/msartor/.gradle/caches/transforms-4/0e4a5dbfb2f5b90c13ef307350993cd3/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
@@ -170,53 +170,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/msart
 MERGED from [com.google.android.play:core-common:2.0.3] /home/msartor/.gradle/caches/transforms-4/f7446d72cedf7dfb65ffa9865ead4449/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.3] /home/msartor/.gradle/caches/transforms-4/f7446d72cedf7dfb65ffa9865ead4449/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /home/msartor/.gradle/caches/transforms-4/f4f2fe86294be803e201cd2240524430/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:13:9-50
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:13:9-50
 	android:dataExtractionRules
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:7:9-65
 activity#br.com.msartor.aulafirebase.PrincipalActivity
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:15:9-17:40
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:17:13-37
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:16:13-46
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:16:13-46
 activity#br.com.msartor.aulafirebase.MainActivity
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:20:13-36
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:19:13-41
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
-INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
+INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.6.0] /home/msartor/.gradle/caches/transforms-4/6da13ce8d41a0c7aa2c1358b94252d5f/transformed/viewbinding-8.6.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.6.0] /home/msartor/.gradle/caches/transforms-4/6da13ce8d41a0c7aa2c1358b94252d5f/transformed/viewbinding-8.6.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] /home/msartor/.gradle/caches/transforms-4/869b62fb52e2e1f2a1e577a5a80c8541/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
@@ -384,9 +384,9 @@ MERGED from [com.google.android.play:core-common:2.0.3] /home/msartor/.gradle/ca
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/msartor/.gradle/caches/transforms-4/0e4a5dbfb2f5b90c13ef307350993cd3/transformed/firebase-auth-23.1.0/AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/msartor/AndroidStudioProjects/AulaFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/msartor/AmbienteDeDesenvolvimento/cursos/mentoria-desenvolvedor-android/AulaFirebase/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/msartor/.gradle/caches/transforms-4/0e4a5dbfb2f5b90c13ef307350993cd3/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.1.1] /home/msartor/.gradle/caches/transforms-4/f4a7ab1b34ccf64371311787115ec5a7/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:11:5-67
